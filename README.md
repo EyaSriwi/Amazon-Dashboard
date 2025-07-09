@@ -2,6 +2,7 @@
 
 Welcome to the **Amazon Sales Analytics Dashboard** — an interactive, data-driven dashboard designed to track and visualize key performance indicators (KPIs) for Amazon product sales, returns, and inventory performance.
 
+
 ![Dashboard Preview](Amazon Overview.png)
 ---
 
