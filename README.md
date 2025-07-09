@@ -4,7 +4,7 @@ Welcome to the **Amazon Sales Analytics Dashboard** — an interactive, data-dri
 
 
 ![Dashboard Preview](Amazon Overview.png)
----
+
 
 ## 🔍 Project Overview
 
